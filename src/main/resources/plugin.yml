@@ -1,0 +1,5 @@
+name: "${project.name}"
+version: "${project.version}"
+api: ["2.0.0"]
+author: MEFRREEX
+main: com.mefrreex.beehivefixer.BeehiveFixer
